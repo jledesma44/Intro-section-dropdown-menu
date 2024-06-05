@@ -76,6 +76,10 @@ img {
   border-radius: 15px;
   border: 1px solid var(--medium-gray);
 }
+.btn:hover {
+  background: var(--almost-black);
+  color: var(--almost-white);
+}
 
 
 
@@ -135,6 +139,7 @@ nav {
   padding-block: 10px;
   transition: all 1s ease;
 }
+
 .main-menu li i {
   transform: rotate(180deg);
 }
@@ -160,7 +165,6 @@ nav {
 .sub-menu li a {
   display: block;
 }
-
 .nav-buttons a:nth-child(1) {
   padding-right: 40px;
 }
