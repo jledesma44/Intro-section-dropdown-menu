@@ -203,6 +203,16 @@ nav {
 .img-hero-mobile {
   display: none;
 }
+.marketing-strip {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding-top: 115px;
+}
+main {
+  padding-bottom: 150px;
+}
 
 
 
